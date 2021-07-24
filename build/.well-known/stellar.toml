@@ -10,7 +10,7 @@ ORG_NAME="kfc"
 ORG_URL="https://www.kfc.org"
 ORG_DESCRIPTION="KFC token is an American fast food restaurant chain headquartered in Louisville, Kentucky that specializes in fried chicken. It is the world's second-largest restaurant chain"
 ORG_TWITTER="@kfc"
-ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
+ORG_LOGO="https://i.ibb.co/k9y5QCc/5.png"
 ORG_OFFICIAL_EMAIL="kfc@gmail.com"
 
 
@@ -21,7 +21,7 @@ anchor_asset="false"
 name="KFC Token"
 desc="KFC Token is an American fast food restaurant chain headquartered in Louisville, Kentucky that specializes in fried chicken. It is the world's second-largest restaurant chain"
 conditions=""
-image="https://i.ibb.co/cCKyP73/images-1.png"
+image="https://i.ibb.co/k9y5QCc/5.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
